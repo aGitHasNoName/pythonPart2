@@ -24,10 +24,10 @@ gallon,3.785,liter
 british_gallon,1.201,gallon
 british_gallon,277.4,cubic_inch
 kilogram,2.2046,pound
-kilgram,0.06852,slug
+kilogram,0.06852,slug
 pound,453.6,gram
 pound,0.03108,slug
-pount,16,ounce
+pound,16,ounce
 slug,32.174,pound
 slug,14.59,kg
 km/h,0.2778,m/sec
